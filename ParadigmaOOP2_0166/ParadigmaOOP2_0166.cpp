@@ -19,7 +19,9 @@ public:
 };
 
 class lia : public seseorang {
+    void pesan() {
 
+    }
 };
 
 int main()
