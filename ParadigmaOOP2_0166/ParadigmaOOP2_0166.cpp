@@ -11,6 +11,10 @@ public:
 
 class joko : public seseorang {
 public:
+    // deklarasi
+    void pesan() {
+
+    }
 };
 
 int main()
